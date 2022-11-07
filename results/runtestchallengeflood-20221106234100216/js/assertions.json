@@ -1,0 +1,10 @@
+{
+  "simulation": "ChallengeFlood.RunTestChallengeFlood",
+  "simulationId": "runtestchallengeflood-20221106234100216",
+  "start": 1667778061492,
+  "description": "CallengeFloodRunTest",
+  "scenarios": ["RunTestChallengeFlood"],
+  "assertions": [
+
+  ]
+}
